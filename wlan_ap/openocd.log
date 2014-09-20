@@ -1,0 +1,4 @@
+Info : only one transport option; autoselect 'jtag'
+adapter speed: 1000 kHz
+cc3200_dbginit
+Error: couldn't bind to socket: Address already in use
