@@ -3,6 +3,8 @@
 	<name>oslib</name>
 	<comment></comment>
 	<projects>
+		<project>CC3200include</project>
+		<project>third_party_FreeRTOS</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

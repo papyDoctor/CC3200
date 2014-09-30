@@ -3,6 +3,8 @@
 	<name>Blinky</name>
 	<comment></comment>
 	<projects>
+		<project>CC3200include</project>
+		<project>driverlib</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

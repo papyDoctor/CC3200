@@ -68,8 +68,8 @@
  *----------------------------------------------------------*/
 
 /* Scheduler includes. */
-#include "FreeRTOS.h"
-#include "task.h"
+#include <inc/FreeRTOS.h>
+#include <inc/task.h>
 
 /* For backward compatibility, ensure configKERNEL_INTERRUPT_PRIORITY is
 defined.  The value should also ensure backward compatibility.

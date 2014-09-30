@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>wlan_ap</name>
+	<name>Test</name>
 	<comment></comment>
 	<projects>
 		<project>CC3200include</project>
-		<project>driverlib</project>
-		<project>middleware</project>
-		<project>oslib</project>
-		<project>simplelink</project>
-		<project>third_party_FreeRTOS</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

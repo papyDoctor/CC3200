@@ -52,9 +52,9 @@
 #include "inc/hw_nvic.h"
 #include "inc/hw_shamd5.h"
 #include "inc/hw_types.h"
-#include "driverlib/debug.h"
-#include "driverlib/interrupt.h"
-#include "driverlib/shamd5.h"
+#include "debug.h"
+#include "interrupt.h"
+#include "shamd5.h"
 
 #define SHAMD5_MODE_ALGO_MD5         0x00000000  // MD5
 #define SHAMD5_MODE_ALGO_SHA1        0x00000002  // SHA-1

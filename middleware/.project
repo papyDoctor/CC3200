@@ -3,6 +3,7 @@
 	<name>middleware</name>
 	<comment></comment>
 	<projects>
+		<project>CC3200include</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

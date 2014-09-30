@@ -3,6 +3,12 @@
 	<name>wlan_station</name>
 	<comment></comment>
 	<projects>
+		<project>CC3200include</project>
+		<project>driverlib</project>
+		<project>middleware</project>
+		<project>oslib</project>
+		<project>simplelink</project>
+		<project>third_party_FreeRTOS</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

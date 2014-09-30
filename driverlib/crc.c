@@ -49,8 +49,8 @@
 #include "inc/hw_dthe.h"
 #include "inc/hw_memmap.h"
 #include "inc/hw_types.h"
-#include "driverlib/crc.h"
-#include "driverlib/debug.h"
+#include "crc.h"
+#include "debug.h"
 
 //*****************************************************************************
 //
