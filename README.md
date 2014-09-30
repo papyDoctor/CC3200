@@ -3,7 +3,7 @@ CC3200
 
 TI and open source projects converted to build/debug with Eclipse and OpenOCD
 
-These are Projets that contains code for executable and librairies.
+Librairies and executable projects for the TI CC3200 Launchpad
 My tuto project:
 Test (a simple test program for build and debugging)
 TI projects converted:
