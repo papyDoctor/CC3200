@@ -9,4 +9,4 @@ Tuto project: Test (a simple test program for build and debugging). TI projects 
 
 More info for Eclipse-OpenOCD installation/configuration @ http://cc32xx-4-linux.io
 
-TESTED on UBUNTU 14.04, Eclipse Luna, OpenOCD 0.7.0, LauchPAD Rev 3.2
+TESTED on UBUNTU 14.04, Eclipse Luna, OpenOCD 0.7.0, Launchpad Rev 3.2
