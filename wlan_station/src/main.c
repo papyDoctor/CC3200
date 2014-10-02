@@ -88,7 +88,7 @@
 #define APPLICATION_NAME        "WLAN STATION"
 #define APPLICATION_VERSION     "1.1.0"
 
-#define HOST_NAME               "www.ti.com"
+#define HOST_NAME               "www.google.be"
 
 //
 // Values for below macros shall be modified for setting the 'Ping' properties
@@ -942,19 +942,19 @@ void main()
 {
     long lRetVal = -1;
 
-    //
-    // Board Initialization
-    //
+    /*
+     * Board Initialization
+     */
     BoardInit();
 
-    //
-    // configure the GPIO pins for LEDs,UART
-    //
+    /*
+     * configure the GPIO pins for LEDs,UART
+     */
     PinMuxConfig();
 
-    //
-    // Configure the UART
-    //
+    /*
+     * Configure the UART
+     */
 #ifndef NOTERM
     InitTerm();
 #endif  //NOTERM
